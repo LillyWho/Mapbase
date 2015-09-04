@@ -1,6 +1,11 @@
 # dirsec-mapbase
 Database of all Team Fortress 2 maps on the server
 
+**WARNING**
+This is the map pluggables that will automatically be copied on to Dirsec's FastDL and server map cache. It is designed to be accessed automatically by the deployment script. It is not user servicable.
+
+Do you want to run a dirsec style server? Take a look at Deployment, which is the script you need.
+
 ## Mapcycle
 ````
 // koth_sunset_saloon_b1r1
